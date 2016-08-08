@@ -1,0 +1,2 @@
+defmodule Hanashi do
+end
